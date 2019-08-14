@@ -1,11 +1,10 @@
 // ==UserScript==
 // @name         Powiel we wszystkich jezykach
 // @namespace    demus.pl
-// @version      0.2
+// @version      0.3
 // @description  Powiel teksty w tabach jezykow
 // @author       You
 // @match        https://www.demus-zegarki.pl/panel/product-edit.php?idt=*
-// @require      http://code.jquery.com/jquery-3.4.1.min.js
 // @grant        none
 // ==/UserScript==
 
